@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Race and Income",
+    "section": "",
+    "text": "This plot visualizes the relationship between race and median household income across census tracts in New York City, broken down by borough. Each point represents a census tract, positioned according to its median income on the x-axis and its largest racial group on the y-axis. Points are colored by income level, with warmer colors (toward yellow) indicating higher incomes. The use of jittering prevents overplotting, making it easier to see the distribution of data points. The faceting by borough allows for direct comparison of patterns across different parts of the city. Overall, the plot highlights both racial and economic segregation, showing that certain racial groups are more prevalent in tracts with higher or lower median incomes depending on the borough."
+  }
+]
